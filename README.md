@@ -1,1 +1,1 @@
-# B.E-thesis-stability-checking
+# stability-checking
